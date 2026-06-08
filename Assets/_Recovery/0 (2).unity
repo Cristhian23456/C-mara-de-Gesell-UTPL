@@ -9078,6 +9078,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LabPsicologia
       objectReference: {fileID: 0}
+    - target: {fileID: 3979008179076780735, guid: be41261208d0ef741b72175357759cc0, type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: -7769951421894727821, guid: be41261208d0ef741b72175357759cc0, type: 3}
